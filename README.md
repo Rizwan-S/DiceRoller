@@ -1,12 +1,12 @@
 # DiceRoller
 A dice roller android app
 
-# Contribute:
-Contributions, issues and feature requests are welcome!
-
 # Overview:
 
-![](overview.jpeg)
+<img src="overview.jpeg" width = "100">
+
+# Contribute:
+Contributions, issues and feature requests are welcome!
 
 # Show your support:
 Give a ⭐️ if you find this repo useful!
