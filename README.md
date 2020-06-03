@@ -3,7 +3,7 @@ A dice roller android app
 
 # Overview:
 
-<img src="overview.jpeg" width = "300">
+<img src="overview.jpeg" width = "300" align = "middle>
 
 # Contribute:
 Contributions, issues and feature requests are welcome!
